@@ -45,3 +45,8 @@ body {
 .bg-purple{
   background: purple;
 }
+@media (min-width: 992px) {
+  .landing {
+    height: 100vh;
+  }
+}
